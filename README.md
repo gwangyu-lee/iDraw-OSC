@@ -1,7 +1,7 @@
 # iDraw-OSC
 An application sending drawing data through the OSC.    
 
-![IMG_1730_square](https://github.com/gwangyu-lee/iDraw-OSC/assets/79373845/c319d799-4b33-464c-aa59-2110869af9bb)
+![IMG_1730_square](https://github.com/gwangyu-lee/iDraw-OSC/assets/79373845/df82c809-25e9-41b5-8211-2b6c19bc567d)
 
 ## Short Tutorial Links    
 <a href="https://www.gwangyulee.com/p/idraw-osc-tutorial-eng.html" target="_blank">iDraw OSC & TouchDesigner Tutorial</a>    
@@ -41,5 +41,6 @@ Go to iDraw OSC, touch the "Draw & Send!" button, and draw something using an ap
 ![iPad_1](https://github.com/gwangyu-lee/iDraw-OSC/assets/79373845/57964165-5fb7-4c6d-9c18-31ed08dfefb2)
 
 ## In TouchDesigner
-You can receive the drawing information through the OSC.    
-![IMG_1730_square](https://github.com/gwangyu-lee/iDraw-OSC/assets/79373845/c319d799-4b33-464c-aa59-2110869af9bb)
+You can receive the drawing information through the OSC.   
+
+![IMG_1730_square](https://github.com/gwangyu-lee/iDraw-OSC/assets/79373845/0b4d8c5e-38d3-4690-bf39-99fb5c842af5)
