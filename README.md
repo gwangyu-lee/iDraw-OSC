@@ -10,12 +10,12 @@ An application sending drawing data through the OSC.
 
 ## How to download
 Released on the Apple App Store.    
-![idraw_osc_appstore](https://github.com/gwangyu-lee/iDraw-OSC/assets/79373845/1a991d44-447c-45e1-a8f5-b4aa920d3b51)
+<img width="400" alt="18_osc_7_1" src="https://github.com/gwangyu-lee/iDraw-OSC/assets/79373845/1a991d44-447c-45e1-a8f5-b4aa920d3b51">
 
 ## How to use    
 Open iDraw OSC.    
 Set the IP Address and port.    
-![iPad_3](https://github.com/gwangyu-lee/iDraw-OSC/assets/79373845/d9f5f662-6726-4c43-a313-d178bee266cc)
+<img width="400" alt="18_osc_7_1" src="https://github.com/gwangyu-lee/iDraw-OSC/assets/79373845/d9f5f662-6726-4c43-a313-d178bee266cc">
 
 ## How to find an IP Address    
 ### On Mac OS    
