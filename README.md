@@ -1,7 +1,8 @@
 # iDraw-OSC
 An application sending drawing data through the OSC.    
 
-![IMG_1730_square](https://github.com/gwangyu-lee/iDraw-OSC/assets/79373845/df82c809-25e9-41b5-8211-2b6c19bc567d)
+![IMG_3475](https://github.com/gwangyu-lee/iDraw-OSC/assets/79373845/28b81aba-7a38-4eaa-82bb-249005609ad6)
+
 
 ## Short Tutorial Links    
 <a href="https://www.gwangyulee.com/p/idraw-osc-tutorial-eng.html" target="_blank">iDraw OSC & TouchDesigner Tutorial</a>    
